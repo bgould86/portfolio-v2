@@ -5,12 +5,20 @@ export default function Header() {
   return (
     <>
       <header>
-        logo here
+        <img src="/images/bdglogo.png" alt="logo" />
         <nav>
-          <Link to="/">About Me</Link>
-          <Link to="/portfolio">Portfolio</Link>
-          <Link to="/contact">Contact</Link>
-          <Link to="/resume">Resume</Link>
+          <Link class="link-text" to="/">
+            About Me
+          </Link>
+          <Link class="link-text" to="/portfolio">
+            Portfolio
+          </Link>
+          <Link class="link-text" to="/contact">
+            Contact
+          </Link>
+          <Link class="link-text" to="/resume">
+            Resume
+          </Link>
         </nav>
       </header>
     </>

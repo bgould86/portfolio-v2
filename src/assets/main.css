@@ -48,6 +48,14 @@ h2 {
 
 /*Classes*/
 
+.link-text {
+  text-decoration: none !important;
+  color: var(--white) !important;
+  font-weight: bold !important;
+  font-size: var(--font-unit-large) !important;
+  line-height: 1 !important;
+}
+
 .ai-c {
   align-items: center;
 }

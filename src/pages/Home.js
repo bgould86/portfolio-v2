@@ -5,7 +5,7 @@ export default function Home(props) {
     <>
       <h2>ABOUT ME</h2>
       <div>
-        <div>
+        <div class="card bgc-black">
           <div>
             <img src="images/brettgould.jpeg" alt="Brett Gould" class="img-fluid rounded-start" />
           </div>
