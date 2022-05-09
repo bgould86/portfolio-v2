@@ -30,4 +30,4 @@ If you have any questions, please contact:
 ## Links
 
 - Here is the repo: [https://github.com/bgould86/portfolio-v2](https://github.com/bgould86/portfolio-v2)
-- Here is the deployed app: [https://bgould86.github.io/portfolio-v2/](https://bgould86.github.io/portfolio-v2/)
+- Here is the deployed app: [https://portfolio-bdg.herokuapp.com/portfolio](https://portfolio-bdg.herokuapp.com/portfolio)
