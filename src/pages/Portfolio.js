@@ -3,13 +3,11 @@ import React from "react";
 export default function Portfolio() {
   return (
     <>
-      <h2 class="mt-1p5" id="my-work">
-        MY WORK
-      </h2>
+      <h2>MY WORK</h2>
       <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
           <div class="card grow bgc-black">
-            <img src="/images/Final Screenshot.png" class="card-img-top" alt="Scott's Tots screenshot" />
+            <img src="/images/Final Screenshot.png" class="card-img-top img-fluid rounded-start" alt="Scott's Tots screenshot" />
             <div>
               <h2 class="card-title">Scott's Tots</h2>
               <p class="card-text">This application allows the parents of Mr. Scott Brunswig's 4th grade class at David Blaine Elementary to stay connected. Parents can interact with their child's classmates' parents and Mr. Brunswig himself!</p>
@@ -25,7 +23,7 @@ export default function Portfolio() {
         </div>
         <div class="col">
           <div class="card grow bgc-black">
-            <img src="/images/bookbuddy.png" class="card-img-top" alt="Book Buddy screenshot" />
+            <img src="/images/bookbuddy.png" class="card-img-top img-fluid rounded-start" alt="Book Buddy screenshot" />
             <div>
               <h2 class="card-title">Book Buddy</h2>
               <p class="card-text">A handy tool for book club members or anyone who wishes to search for a book by genre and filter down by number of pages.</p>
@@ -41,7 +39,7 @@ export default function Portfolio() {
         </div>
         <div class="col">
           <div class="card grow bgc-black">
-            <img src="/images/simpsonsquiz.png" class="card-img-top" alt="Simpsons Quiz screenshot" />
+            <img src="/images/simpsonsquiz.png" class="card-img-top img-fluid rounded-start" alt="Simpsons Quiz screenshot" />
             <div>
               <h2 class="card-title">The Simpsons Quiz</h2>
               <p class="card-text">A timed quiz on the long-running, beloved animated sitcom, The Simpsons.</p>
@@ -57,7 +55,7 @@ export default function Portfolio() {
         </div>
         <div class="col">
           <div class="card grow bgc-black">
-            <img src="/images/weatherdash.png" class="card-img-top" alt="Weather Dashboard screenshot" />
+            <img src="/images/weatherdash.png" class="card-img-top img-fluid rounded-start" alt="Weather Dashboard screenshot" />
             <div>
               <h2 class="card-title">Weather Dashboard</h2>
               <p class="card-text">Search a city and check the current weather and the five-day forecast.</p>

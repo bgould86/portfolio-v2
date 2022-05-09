@@ -3,9 +3,9 @@ import React from "react";
 export default function Contact() {
   return (
     <>
-      <h2>Contact Me</h2>
-      <h3>BrettDGould@gmail.com</h3>
-      <h3>773.677.9336</h3>
+      <h2>CONTACT ME</h2>
+      <h4 class="mt-1p5">BrettDGould@gmail.com</h4>
+      <h4 class="mt-1p5">773.677.9336</h4>
     </>
   );
 }
