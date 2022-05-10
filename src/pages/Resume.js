@@ -17,7 +17,7 @@ export default function Resume() {
 
       <p>
         You may view my full resume{" "}
-        <a href="/public/images/resume.pdf" target="_blank" rel="noopener noreferrer" class="my-link">
+        <a href="/images/resume.pdf" target="_blank" rel="noopener noreferrer" class="my-link">
           here.
         </a>
       </p>
